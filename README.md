@@ -5,7 +5,7 @@ Analysis of PGA Tour data for CS377: Applied Data Analysis
 ## What I learned
 
 - Data cleaning in a Pandas dataframe
-- Data visulizations using Pandas and Seaborn
+- Data visualizations using Pandas and Seaborn
 - Regressions using Scikit-learn
 - How to properly analyize data
 
